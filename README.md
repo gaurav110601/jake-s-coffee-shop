@@ -1,7 +1,54 @@
-//HTML + CSS
+<h3 align="center">
+   Jake's Coffee Shop
+</h3>
 
-So there is a webpage I did called Jake's Coffee Shop all I need is someone who knows CSS to change the presentation and the layout of the page to look like this:
 
-The web page layout includes a header section, two columns (one for navigation menu and one for main content) and a footer section.
+<br><br>
 
-![image](https://github.com/user-attachments/assets/b0119fe9-df35-462d-8799-96aab237a772)
+<p align="justify">
+This is a web page layout includes a header section, two columns (one for navigation menu and one for main content) and a footer section.<br>
+
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+### Demo
+<p align="justify">
+  The Demo of this working project can be found on <br>
+  <a href="https://gaurav110601.github.io/jake-s-coffee-shop/" target="_blank">https://gaurav110601.github.io/jake-s-coffee-shop/</a>
+</p>
+
+
+<br><br>
+
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+
+<img src="/image.jpg"/>
+
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+
+
+### Technology Stack
+<br>
+- HTML
+- CSS
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+Gaurav Sharma <br>
+gaurav110601@gmail.com <br>
+> [LinkedIn](https://www.linkedin.com/in/gaurav110601/)
+<!-- ................................................................................................................................. -->
+
+ 
